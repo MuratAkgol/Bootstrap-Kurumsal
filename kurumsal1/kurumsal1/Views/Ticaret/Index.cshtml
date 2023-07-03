@@ -1,0 +1,48 @@
+﻿@using kurumsal1.Models;
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/Ticaret.cshtml";
+}
+
+<div class="container">
+    <div class="row">
+        <div class="col" style="border:1px solid">
+            <p class="text-center">En çok satanlar</p>
+
+        </div>
+
+    </div>
+</div>
+<div class="container bg-light">
+    <div class="row">
+        @foreach (var item in Model)
+        {
+            <div class="col" style="border: 1px solid; width: 100px; height: 100px">
+                @item.Adi
+                <br />
+                @item.Fiyati
+                <br />
+                @item.Materyal
+            </div>
+        }
+    </div>
+</div>
+<br />
+<div class="container">
+    <div class="row">
+        <div class="col" style="border:1px solid">
+            <p class="text-center">En yeniler</p>
+        </div>
+    </div>
+</div>
+<div class="container bg-light">
+    <div class="row">
+        @foreach (var item in Model)
+        {
+            <div class="col" style="border: 1px solid; width: 100px; height: 100px">
+               @ViewBag.yeni
+            </div>
+        }
+    </div>
+</div>

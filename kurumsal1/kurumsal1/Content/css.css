@@ -1,0 +1,49 @@
+﻿body {
+}
+
+.bground {
+    background-image: url('../background.gif');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.bground2 {
+    background-image: url('../bg2.gif');
+    background-size: cover;
+    background-position: center;
+    background-repeat: repeat;
+    margin: 2%;
+}
+
+#logo {
+    color: white;
+    margin-left: 25%;
+    font-size: 600%;
+    font-family: 'Qwitcher Grypen', cursive;
+    pointer-events: none;
+}
+
+#navigasyon {
+    margin-left: 20%;
+}
+
+#urunler {
+    width: 1px;
+}
+
+#ilham {
+    border: solid 2px;
+}
+
+p {
+    font-size: 15px;
+}
+
+#slider {
+    background-color: white;
+}
+
+#text {
+    background-color: white;
+}

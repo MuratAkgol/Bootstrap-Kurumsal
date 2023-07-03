@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Kurumsal1_DBModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="tbl_urunler">
+    <Key>
+      <PropertyRef Name="IID" />
+    </Key>
+    <Property Name="IID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Adi" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Fiyati" Type="Decimal" Precision="19" Scale="4" />
+    <Property Name="Materyal" Type="String" MaxLength="500" FixedLength="false" Unicode="true" />
+    <Property Name="Resmi" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Encok" Type="Int32" />
+    <Property Name="Yeni" Type="Int32" />
+  </EntityType>
+  <EntityContainer Name="Kurumsal1_DBEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="tbl_urunler" EntityType="Self.tbl_urunler" />
+  </EntityContainer>
+</Schema>

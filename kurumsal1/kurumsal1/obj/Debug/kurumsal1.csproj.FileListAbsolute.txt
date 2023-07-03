@@ -1,0 +1,152 @@
+C:\Users\huawei\Desktop\kurumsal1\kurumsal1\bin\kurumsal1.dll.config
+C:\Users\huawei\Desktop\kurumsal1\kurumsal1\bin\kurumsal1.dll
+C:\Users\huawei\Desktop\kurumsal1\kurumsal1\bin\kurumsal1.pdb
+C:\Users\huawei\Desktop\kurumsal1\kurumsal1\bin\roslyn\csc.exe
+C:\Users\huawei\Desktop\kurumsal1\kurumsal1\bin\roslyn\csc.exe.config
+C:\Users\huawei\Desktop\kurumsal1\kurumsal1\bin\roslyn\csc.rsp
+C:\Users\huawei\Desktop\kurumsal1\kurumsal1\bin\roslyn\csi.exe
+C:\Users\huawei\Desktop\kurumsal1\kurumsal1\bin\roslyn\csi.exe.config
+C:\Users\huawei\Desktop\kurumsal1\kurumsal1\bin\roslyn\csi.rsp
+C:\Users\huawei\Desktop\kurumsal1\kurumsal1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\huawei\Desktop\kurumsal1\kurumsal1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\huawei\Desktop\kurumsal1\kurumsal1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\huawei\Desktop\kurumsal1\kurumsal1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\huawei\Desktop\kurumsal1\kurumsal1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\huawei\Desktop\kurumsal1\kurumsal1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\huawei\Desktop\kurumsal1\kurumsal1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\huawei\Desktop\kurumsal1\kurumsal1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\huawei\Desktop\kurumsal1\kurumsal1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\huawei\Desktop\kurumsal1\kurumsal1\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\huawei\Desktop\kurumsal1\kurumsal1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\huawei\Desktop\kurumsal1\kurumsal1\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\huawei\Desktop\kurumsal1\kurumsal1\bin\roslyn\System.AppContext.dll
+C:\Users\huawei\Desktop\kurumsal1\kurumsal1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\huawei\Desktop\kurumsal1\kurumsal1\bin\roslyn\System.Console.dll
+C:\Users\huawei\Desktop\kurumsal1\kurumsal1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\huawei\Desktop\kurumsal1\kurumsal1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\huawei\Desktop\kurumsal1\kurumsal1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\huawei\Desktop\kurumsal1\kurumsal1\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\huawei\Desktop\kurumsal1\kurumsal1\bin\roslyn\System.IO.Compression.dll
+C:\Users\huawei\Desktop\kurumsal1\kurumsal1\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\huawei\Desktop\kurumsal1\kurumsal1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\huawei\Desktop\kurumsal1\kurumsal1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\huawei\Desktop\kurumsal1\kurumsal1\bin\roslyn\System.Net.Http.dll
+C:\Users\huawei\Desktop\kurumsal1\kurumsal1\bin\roslyn\System.Net.Sockets.dll
+C:\Users\huawei\Desktop\kurumsal1\kurumsal1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\huawei\Desktop\kurumsal1\kurumsal1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\huawei\Desktop\kurumsal1\kurumsal1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\huawei\Desktop\kurumsal1\kurumsal1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\huawei\Desktop\kurumsal1\kurumsal1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\huawei\Desktop\kurumsal1\kurumsal1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\huawei\Desktop\kurumsal1\kurumsal1\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\huawei\Desktop\kurumsal1\kurumsal1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\huawei\Desktop\kurumsal1\kurumsal1\bin\roslyn\System.ValueTuple.dll
+C:\Users\huawei\Desktop\kurumsal1\kurumsal1\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\huawei\Desktop\kurumsal1\kurumsal1\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\huawei\Desktop\kurumsal1\kurumsal1\bin\roslyn\System.Xml.XPath.dll
+C:\Users\huawei\Desktop\kurumsal1\kurumsal1\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\huawei\Desktop\kurumsal1\kurumsal1\bin\roslyn\vbc.exe
+C:\Users\huawei\Desktop\kurumsal1\kurumsal1\bin\roslyn\vbc.exe.config
+C:\Users\huawei\Desktop\kurumsal1\kurumsal1\bin\roslyn\vbc.rsp
+C:\Users\huawei\Desktop\kurumsal1\kurumsal1\bin\roslyn\VBCSCompiler.exe
+C:\Users\huawei\Desktop\kurumsal1\kurumsal1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\huawei\Desktop\kurumsal1\kurumsal1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\huawei\Desktop\kurumsal1\kurumsal1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\huawei\Desktop\kurumsal1\kurumsal1\bin\System.Web.Helpers.dll
+C:\Users\huawei\Desktop\kurumsal1\kurumsal1\bin\System.Web.Mvc.dll
+C:\Users\huawei\Desktop\kurumsal1\kurumsal1\bin\System.Web.Razor.dll
+C:\Users\huawei\Desktop\kurumsal1\kurumsal1\bin\System.Web.Webpages.Deployment.dll
+C:\Users\huawei\Desktop\kurumsal1\kurumsal1\bin\System.Web.Webpages.dll
+C:\Users\huawei\Desktop\kurumsal1\kurumsal1\bin\System.Web.Webpages.Razor.dll
+C:\Users\huawei\Desktop\kurumsal1\kurumsal1\bin\System.Web.Razor.xml
+C:\Users\huawei\Desktop\kurumsal1\kurumsal1\bin\System.Web.Webpages.xml
+C:\Users\huawei\Desktop\kurumsal1\kurumsal1\bin\System.Web.Webpages.Deployment.xml
+C:\Users\huawei\Desktop\kurumsal1\kurumsal1\bin\System.Web.Webpages.Razor.xml
+C:\Users\huawei\Desktop\kurumsal1\kurumsal1\bin\System.Web.Helpers.xml
+C:\Users\huawei\Desktop\kurumsal1\kurumsal1\bin\System.Web.Mvc.xml
+C:\Users\huawei\Desktop\kurumsal1\kurumsal1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\huawei\Desktop\kurumsal1\kurumsal1\obj\Debug\kurumsal1.csproj.AssemblyReference.cache
+C:\Users\huawei\Desktop\kurumsal1\kurumsal1\obj\Debug\kurumsal1.csproj.CoreCompileInputs.cache
+C:\Users\huawei\Desktop\kurumsal1\kurumsal1\obj\Debug\kurumsal1.csproj.CopyComplete
+C:\Users\huawei\Desktop\kurumsal1\kurumsal1\obj\Debug\kurumsal1.dll
+C:\Users\huawei\Desktop\kurumsal1\kurumsal1\obj\Debug\kurumsal1.pdb
+C:\Users\huawei\Desktop\kurumsal1\kurumsal1\bin\EntityFramework.dll
+C:\Users\huawei\Desktop\kurumsal1\kurumsal1\bin\EntityFramework.SqlServer.dll
+C:\Users\huawei\Desktop\kurumsal1\kurumsal1\bin\EntityFramework.xml
+C:\Users\huawei\Desktop\kurumsal1\kurumsal1\bin\EntityFramework.SqlServer.xml
+D:\C# kurs\Projelerim\kurumsal1\kurumsal1\bin\kurumsal1.dll.config
+D:\C# kurs\Projelerim\kurumsal1\kurumsal1\bin\kurumsal1.dll
+D:\C# kurs\Projelerim\kurumsal1\kurumsal1\bin\kurumsal1.pdb
+D:\C# kurs\Projelerim\kurumsal1\kurumsal1\bin\roslyn\csc.exe
+D:\C# kurs\Projelerim\kurumsal1\kurumsal1\bin\roslyn\csc.exe.config
+D:\C# kurs\Projelerim\kurumsal1\kurumsal1\bin\roslyn\csc.rsp
+D:\C# kurs\Projelerim\kurumsal1\kurumsal1\bin\roslyn\csi.exe
+D:\C# kurs\Projelerim\kurumsal1\kurumsal1\bin\roslyn\csi.exe.config
+D:\C# kurs\Projelerim\kurumsal1\kurumsal1\bin\roslyn\csi.rsp
+D:\C# kurs\Projelerim\kurumsal1\kurumsal1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\C# kurs\Projelerim\kurumsal1\kurumsal1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\C# kurs\Projelerim\kurumsal1\kurumsal1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\C# kurs\Projelerim\kurumsal1\kurumsal1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\C# kurs\Projelerim\kurumsal1\kurumsal1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\C# kurs\Projelerim\kurumsal1\kurumsal1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\C# kurs\Projelerim\kurumsal1\kurumsal1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\C# kurs\Projelerim\kurumsal1\kurumsal1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\C# kurs\Projelerim\kurumsal1\kurumsal1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\C# kurs\Projelerim\kurumsal1\kurumsal1\bin\roslyn\Microsoft.Managed.Core.targets
+D:\C# kurs\Projelerim\kurumsal1\kurumsal1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\C# kurs\Projelerim\kurumsal1\kurumsal1\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\C# kurs\Projelerim\kurumsal1\kurumsal1\bin\roslyn\System.AppContext.dll
+D:\C# kurs\Projelerim\kurumsal1\kurumsal1\bin\roslyn\System.Collections.Immutable.dll
+D:\C# kurs\Projelerim\kurumsal1\kurumsal1\bin\roslyn\System.Console.dll
+D:\C# kurs\Projelerim\kurumsal1\kurumsal1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\C# kurs\Projelerim\kurumsal1\kurumsal1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\C# kurs\Projelerim\kurumsal1\kurumsal1\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\C# kurs\Projelerim\kurumsal1\kurumsal1\bin\roslyn\System.Globalization.Calendars.dll
+D:\C# kurs\Projelerim\kurumsal1\kurumsal1\bin\roslyn\System.IO.Compression.dll
+D:\C# kurs\Projelerim\kurumsal1\kurumsal1\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\C# kurs\Projelerim\kurumsal1\kurumsal1\bin\roslyn\System.IO.FileSystem.dll
+D:\C# kurs\Projelerim\kurumsal1\kurumsal1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\C# kurs\Projelerim\kurumsal1\kurumsal1\bin\roslyn\System.Net.Http.dll
+D:\C# kurs\Projelerim\kurumsal1\kurumsal1\bin\roslyn\System.Net.Sockets.dll
+D:\C# kurs\Projelerim\kurumsal1\kurumsal1\bin\roslyn\System.Reflection.Metadata.dll
+D:\C# kurs\Projelerim\kurumsal1\kurumsal1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\C# kurs\Projelerim\kurumsal1\kurumsal1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\C# kurs\Projelerim\kurumsal1\kurumsal1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\C# kurs\Projelerim\kurumsal1\kurumsal1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\C# kurs\Projelerim\kurumsal1\kurumsal1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\C# kurs\Projelerim\kurumsal1\kurumsal1\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\C# kurs\Projelerim\kurumsal1\kurumsal1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\C# kurs\Projelerim\kurumsal1\kurumsal1\bin\roslyn\System.ValueTuple.dll
+D:\C# kurs\Projelerim\kurumsal1\kurumsal1\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\C# kurs\Projelerim\kurumsal1\kurumsal1\bin\roslyn\System.Xml.XmlDocument.dll
+D:\C# kurs\Projelerim\kurumsal1\kurumsal1\bin\roslyn\System.Xml.XPath.dll
+D:\C# kurs\Projelerim\kurumsal1\kurumsal1\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\C# kurs\Projelerim\kurumsal1\kurumsal1\bin\roslyn\vbc.exe
+D:\C# kurs\Projelerim\kurumsal1\kurumsal1\bin\roslyn\vbc.exe.config
+D:\C# kurs\Projelerim\kurumsal1\kurumsal1\bin\roslyn\vbc.rsp
+D:\C# kurs\Projelerim\kurumsal1\kurumsal1\bin\roslyn\VBCSCompiler.exe
+D:\C# kurs\Projelerim\kurumsal1\kurumsal1\bin\roslyn\VBCSCompiler.exe.config
+D:\C# kurs\Projelerim\kurumsal1\kurumsal1\bin\EntityFramework.dll
+D:\C# kurs\Projelerim\kurumsal1\kurumsal1\bin\EntityFramework.SqlServer.dll
+D:\C# kurs\Projelerim\kurumsal1\kurumsal1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\C# kurs\Projelerim\kurumsal1\kurumsal1\bin\Microsoft.Web.Infrastructure.dll
+D:\C# kurs\Projelerim\kurumsal1\kurumsal1\bin\System.Web.Helpers.dll
+D:\C# kurs\Projelerim\kurumsal1\kurumsal1\bin\System.Web.Mvc.dll
+D:\C# kurs\Projelerim\kurumsal1\kurumsal1\bin\System.Web.Razor.dll
+D:\C# kurs\Projelerim\kurumsal1\kurumsal1\bin\System.Web.Webpages.Deployment.dll
+D:\C# kurs\Projelerim\kurumsal1\kurumsal1\bin\System.Web.Webpages.dll
+D:\C# kurs\Projelerim\kurumsal1\kurumsal1\bin\System.Web.Webpages.Razor.dll
+D:\C# kurs\Projelerim\kurumsal1\kurumsal1\bin\EntityFramework.xml
+D:\C# kurs\Projelerim\kurumsal1\kurumsal1\bin\EntityFramework.SqlServer.xml
+D:\C# kurs\Projelerim\kurumsal1\kurumsal1\bin\System.Web.Razor.xml
+D:\C# kurs\Projelerim\kurumsal1\kurumsal1\bin\System.Web.Webpages.xml
+D:\C# kurs\Projelerim\kurumsal1\kurumsal1\bin\System.Web.Webpages.Deployment.xml
+D:\C# kurs\Projelerim\kurumsal1\kurumsal1\bin\System.Web.Webpages.Razor.xml
+D:\C# kurs\Projelerim\kurumsal1\kurumsal1\bin\System.Web.Helpers.xml
+D:\C# kurs\Projelerim\kurumsal1\kurumsal1\bin\System.Web.Mvc.xml
+D:\C# kurs\Projelerim\kurumsal1\kurumsal1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\C# kurs\Projelerim\kurumsal1\kurumsal1\obj\Debug\kurumsal1.csproj.AssemblyReference.cache
+D:\C# kurs\Projelerim\kurumsal1\kurumsal1\obj\Debug\kurumsal1.csproj.CoreCompileInputs.cache
+D:\C# kurs\Projelerim\kurumsal1\kurumsal1\obj\Debug\kurumsal1.csproj.CopyComplete
+D:\C# kurs\Projelerim\kurumsal1\kurumsal1\obj\Debug\kurumsal1.dll
+D:\C# kurs\Projelerim\kurumsal1\kurumsal1\obj\Debug\kurumsal1.pdb

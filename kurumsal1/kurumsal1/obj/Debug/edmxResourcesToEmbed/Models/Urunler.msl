@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Kurumsal1_DBModelStoreContainer" CdmEntityContainer="Kurumsal1_DBEntities">
+    <EntitySetMapping Name="tbl_urunler">
+      <EntityTypeMapping TypeName="Kurumsal1_DBModel.tbl_urunler">
+        <MappingFragment StoreEntitySet="tbl_urunler">
+          <ScalarProperty Name="Yeni" ColumnName="Yeni" />
+          <ScalarProperty Name="Encok" ColumnName="Encok" />
+          <ScalarProperty Name="IID" ColumnName="IID" />
+          <ScalarProperty Name="Adi" ColumnName="Adi" />
+          <ScalarProperty Name="Fiyati" ColumnName="Fiyati" />
+          <ScalarProperty Name="Materyal" ColumnName="Materyal" />
+          <ScalarProperty Name="Resmi" ColumnName="Resmi" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
